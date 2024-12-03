@@ -6,6 +6,9 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"D:/Mario/Desktop/Github/My_Little_Kaiju/MyProject/Content/NewMap.umap",
+				"D:/Mario/Desktop/Github/My_Little_Kaiju/MyProject/Content/Map_With_Roads.umap",
+				"D:/Mario/Desktop/Github/My_Little_Kaiju/MyProject/Content/Blueprints/BP_FireHydrant.uasset",
+				"D:/Mario/Desktop/Github/My_Little_Kaiju/MyProject/Content/BP_WaterSpout.uasset",
 				"C:/Users/ma776847/Documents/GitHub/My_Little_Kaiju/MyProject/Content/NewMap.umap",
 				"C:/Users/be996834/Documents/GitHub/My_Little_Kaiju/MyProject/Content/art_assets/Buildings/NEWBUILDINGSFIXEDPIVOT/ApartmentFP.uasset",
 				"C:/Users/be996834/Documents/GitHub/My_Little_Kaiju/MyProject/Content/art_assets/Buildings/NEWBUILDINGSFIXEDPIVOT/CircularBuildingFP.uasset",
